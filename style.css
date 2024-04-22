@@ -1,4 +1,33 @@
 header {
-    background-color: #42615c;
+    background-color: #614247;
     color: rgb(255, 255, 255);
+    margin:0;
+    padding:0;
+    display:block;
+    justify-content: space-around
+}
+.titulo1{
+    font-size: 50px;
+    text-align: center;
+    color:#FF8577;
+    font-style:italic;
+}
+.titulo2{
+    font-size: 100px;
+    text-align: center;
+    color:#FF8577
+     font-style:italic;
+}
+
+}
+body {
+    background-color:#FF8577
+}
+
+.escola{
+    margin-left: 100px;
+    margin-top: 200px;
+    margin-right: 1550px;
+    background-color: #FF8577
+    padding:30px;
 }
