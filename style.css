@@ -24,10 +24,46 @@ body {
     background-color:#ff998e 
 }
 
+
+
 .escola{
     margin-left: 100px;
     margin-top: 200px;
     margin-right: 1550px;
     background-color: #FF8577
     padding: 30px;
+}
+
+.escola-imagem{
+    margin-left: 450px;
+    margin-bottom: 1400px;
+    margin-top: 1400px;
+   }
+
+.estudante{
+    padding: 24px;
+
+}
+
+ .estudante-div{
+    text-align:center;
+    padding: 26px 0;
+    font-size: 40px;
+ }
+
+ .estudante-titulo{
+    text-align:center;
+    padding: 50px 0;
+    font-size: 50px;
+/*/ background-color:#46alcf;/*/
+
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%
+}
+.nossa-escola{
+    font-size: 50px;
+    text-align: center;
+    margin-left: 850px;
 }
