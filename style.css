@@ -65,12 +65,4 @@ body {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%
 }
-.nossa-escola{
-    font-size: 50px;
-    text-align: center;
-    margin-left: 970px;
-    margin-left: 450px;
-    margin-top: 300px;
-    margin-right: 1500px;
-    height: 550px;
-}
+
